@@ -1,4 +1,4 @@
-D 'suradf': Series-specific SUR-ADF panel unit root test (Breuer, McNown and Wallace 2002) Use suradf With STATA 19
-F suradf.ado
-F suradf.sthlp
-F suradf_methods.sthlp
+D 'hpcm': Hosoya (2001) partial measures of causality by one-way-effect elimination Use hpcm With STATA 19
+F hpcm.ado
+F hpcm.sthlp
+F hpcm_methods.sthlp
