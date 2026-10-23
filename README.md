@@ -1,6 +1,8 @@
 # hpcm
 Hosoya (2001) partial measures of causality by one-way-effect elimination Use hpcm With STATA 19
 
+https://www.youtube.com/watch?v=8smj0XKbSB0
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
